@@ -1,6 +1,6 @@
-Feature: OrangeHRM Login
+Feature: Pokemon Flow
 
-  Scenario: User successfully login
+  Scenario: User can access website pokemon
     Given launch chrome browser
     When open pokemon page
     And click CTA "Pokédex"
